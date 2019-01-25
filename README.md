@@ -14,5 +14,6 @@ All bug reports or feature requests for supported plugin should be submitted via
 - Feature Request
 
 ### Notable IBM Links
-- Contact Support
+- [IBM Support](https://www.ibm.com/support/home/)
+- [Submit Support Case](https://www.ibm.com/mysupport/s/?language=en_US)
 - [IBM RFE Community](https://www.ibm.com/developerworks/rfe/)
